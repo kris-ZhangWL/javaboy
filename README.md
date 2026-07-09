@@ -2,7 +2,7 @@
 
 ## 广大的javaboy无敌！！
 
-[!image:45b9bd098b6c85fe9947c6509d7c732a.jpg]
+  ![image](45b9bd098b6c85fe9947c6509d7c732a.jpg)
 
 ### 让 Java 开发者读懂 Python、JavaScript、Go、Rust、SQL 和各种配置脚本
 
