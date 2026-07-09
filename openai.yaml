@@ -1,0 +1,4 @@
+interface:
+  display_name: "Javaboy"
+  short_description: "用 Java 类比解释非 Java 代码。"
+  default_prompt: "使用 $javaboy，用 Java 语法、API 和设计类比解释这段非 Java 代码。"
